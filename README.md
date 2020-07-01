@@ -8,12 +8,10 @@
 
 ## Comandos
 
-    <ul>
-        <li>npm installer vue-router</li>
-        <li>npm installer axios</li>
-        <li>npm installer express</li>
-        <li>npm installer serve-static</li>
-    </ul>
+    npm installer vue-router
+    npm installer axios
+    npm installer express
+    npm installer serve-static
 
 ## Intuito
 
