@@ -1,9 +1,4 @@
 # projetofinal
-
-<p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AStreet_Fighter_old_logo.png&psig=AOvVaw0NEketHz2RC_cTutjlUnO1&ust=1593627816721000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCQlbKUquoCFQAAAAAdAAAAABAD" alt="Locadora logo" width="200" height="165">
-</p>
-
 <h3 align="center">Street Fighter Locadora</h3>
 
 ## Comandos
